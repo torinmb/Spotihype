@@ -10,9 +10,9 @@ Install the threading library `futures`:
 
   `$ sudo pip install futures`
 
-
-_Note: run all of the following commands from the root of the project_
 Retrieving Spotify playlist:
+
+_Note: run the following command from the root of the project_
   
   `$ python spotihype.py` your_hypem_username
 
