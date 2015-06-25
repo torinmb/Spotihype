@@ -16,7 +16,7 @@ _Note: run the following command from the root of the project_
   
   `$ python spotihype.py` your_hypem_username
 
-2) copy the output and paste it into an empty spotify playlist
+Copy the output and paste it into an empty spotify playlist
 
 
 
