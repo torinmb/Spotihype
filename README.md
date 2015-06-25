@@ -1,7 +1,6 @@
 # Spotihype
 Import your hype machine favorites into a Spotify playlist
 
-Setup:
 
 First install `pip` if you don't already have it:
 
